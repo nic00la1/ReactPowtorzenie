@@ -7,3 +7,6 @@
 
 ## Parametry komponentu
 <img width="366" height="231" alt="image" src="https://github.com/user-attachments/assets/85450256-b0c1-438b-89b9-b37ee9ff523f" />
+
+## Parametr children komponentu
+<img width="459" height="358" alt="image" src="https://github.com/user-attachments/assets/aa5c4e49-64e2-492e-8b62-87e794e38c7f" />
