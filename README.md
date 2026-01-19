@@ -10,3 +10,6 @@
 
 ## Parametr children komponentu
 <img width="459" height="358" alt="image" src="https://github.com/user-attachments/assets/aa5c4e49-64e2-492e-8b62-87e794e38c7f" />
+
+## Konstrukcja IF wewnątrz render-u
+<img width="374" height="398" alt="image" src="https://github.com/user-attachments/assets/7f80d3b7-50d4-4154-a050-9e6a35e84377" />
